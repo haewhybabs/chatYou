@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335136902260",
+    "project_id": "chatyou-64009",
+    "storage_bucket": "chatyou-64009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335136902260:android:5e3bd353521ea271081521",
+        "android_client_info": {
+          "package_name": "com.chatyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335136902260-c8fd630h6tc7c43rgiibv7cc1mc4q3ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8AU07vIB4FoF6iiV5KSm_calvk6gx0Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335136902260-c8fd630h6tc7c43rgiibv7cc1mc4q3ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

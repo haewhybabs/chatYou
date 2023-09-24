@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">chatyou</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an">We will send you an </string>
+    <string name="one_time_password">One time password</string>
+    <string name="Continue">continue</string>
+    <string name="profile_information">Profile Information</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="submit">Submit</string>
+    <string name="delete_for_everyone">Delete for everyone</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_fullname">Enter your fullname</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="don_t_have_an_account_register_here">Don\'t have an account? Register here</string>
+    <string name="changemode">ChangeMode</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+</resources>
